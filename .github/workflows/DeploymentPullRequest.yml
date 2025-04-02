@@ -32,15 +32,14 @@ jobs:
         uses: actions/setup-dotnet@v1
         with:
           dotnet-version: '8.0.x'
+          
+      - name: Build the project
+        run: dotnet build
         
       # Runs the console application
       - name: Run Console Application
         run: |
           # Navigate to the directory containing the console app
           cd TestRunConsole/TestRunConsole/bin/Debug/net8.0
-
-      - name: Grant execute permissions for TestRunConsole.exe
-        run: chmod +x TestRunConsole.exe
-
-      - name: Run the console application
-        run: TestRunConsole.exe "Sachet"
+          chmod +x TestRunConsole
+          TestRunConsole "Sachet"
