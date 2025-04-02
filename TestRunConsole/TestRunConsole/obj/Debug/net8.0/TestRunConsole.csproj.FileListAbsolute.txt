@@ -1,0 +1,15 @@
+C:\Users\2053959\source\repos\AITestRepo\TestRunConsole\TestRunConsole\bin\Debug\net8.0\TestRunConsole.exe
+C:\Users\2053959\source\repos\AITestRepo\TestRunConsole\TestRunConsole\bin\Debug\net8.0\TestRunConsole.deps.json
+C:\Users\2053959\source\repos\AITestRepo\TestRunConsole\TestRunConsole\bin\Debug\net8.0\TestRunConsole.runtimeconfig.json
+C:\Users\2053959\source\repos\AITestRepo\TestRunConsole\TestRunConsole\bin\Debug\net8.0\TestRunConsole.dll
+C:\Users\2053959\source\repos\AITestRepo\TestRunConsole\TestRunConsole\bin\Debug\net8.0\TestRunConsole.pdb
+C:\Users\2053959\source\repos\AITestRepo\TestRunConsole\TestRunConsole\obj\Debug\net8.0\TestRunConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2053959\source\repos\AITestRepo\TestRunConsole\TestRunConsole\obj\Debug\net8.0\TestRunConsole.AssemblyInfoInputs.cache
+C:\Users\2053959\source\repos\AITestRepo\TestRunConsole\TestRunConsole\obj\Debug\net8.0\TestRunConsole.AssemblyInfo.cs
+C:\Users\2053959\source\repos\AITestRepo\TestRunConsole\TestRunConsole\obj\Debug\net8.0\TestRunConsole.csproj.CoreCompileInputs.cache
+C:\Users\2053959\source\repos\AITestRepo\TestRunConsole\TestRunConsole\obj\Debug\net8.0\TestRunConsole.sourcelink.json
+C:\Users\2053959\source\repos\AITestRepo\TestRunConsole\TestRunConsole\obj\Debug\net8.0\TestRunConsole.dll
+C:\Users\2053959\source\repos\AITestRepo\TestRunConsole\TestRunConsole\obj\Debug\net8.0\refint\TestRunConsole.dll
+C:\Users\2053959\source\repos\AITestRepo\TestRunConsole\TestRunConsole\obj\Debug\net8.0\TestRunConsole.pdb
+C:\Users\2053959\source\repos\AITestRepo\TestRunConsole\TestRunConsole\obj\Debug\net8.0\TestRunConsole.genruntimeconfig.cache
+C:\Users\2053959\source\repos\AITestRepo\TestRunConsole\TestRunConsole\obj\Debug\net8.0\ref\TestRunConsole.dll
