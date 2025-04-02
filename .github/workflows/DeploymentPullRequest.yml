@@ -40,7 +40,7 @@ jobs:
           cd TestRunConsole/TestRunConsole/bin/Debug/net8.0
 
       - name: Grant execute permissions for TestRunConsole.exe
-        run: chmod +x ./TestRunConsole.exe
+        run: chmod +x TestRunConsole.exe
 
       - name: Run the console application
-        run: ./TestRunConsole.exe "Sachet"
+        run: TestRunConsole.exe "Sachet"
