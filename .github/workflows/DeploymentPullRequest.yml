@@ -31,9 +31,9 @@ jobs:
       - name: Run Console Application
         run: |
           # Navigate to the directory containing the console app
-          cd path/to/your/console/app
+          cd TestRunConsole/TestRunConsole/bin/Debug/net8.0
           # Run the console application
-          ./your-console-app
+          ./TestRunConsole.exe "Sachet"
           
       # Runs a set of commands using the runners shell
       - name: Run a multi-line script
