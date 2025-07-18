@@ -33,11 +33,11 @@ jobs:
         with:
           dotnet-version: '8.0.x'
       
-      # Runs the console application
-      - name: Run Console Application
-        run: |
-          # Navigate to the directory containing the console app
-          cd TestRunConsole/TestRunConsole/bin/Debug/net8.0
-          dotnet build
-          chmod +x TestRunConsole
-          TestRunConsole "Sachet"
+      - name: Restore dependencies
+        run: dotnet restore TestRunConsole/TestRunConsole.csproj
+      
+      - name: Build the project
+        run: dotnet build TestRunConsole/TestRunConsole.csproj --no-restore
+        
+      - name: Run AI Review Console App
+        run: dotnet run --project TestRunConsole/TestRunConsole.csproj
