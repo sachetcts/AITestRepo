@@ -34,10 +34,10 @@ jobs:
           dotnet-version: '8.0.x'
       
       - name: Restore dependencies
-        run: dotnet restore ../ ../TestRunConsole/TestRunConsole/TestRunConsole.csproj
+        run: dotnet restore ../../TestRunConsole/TestRunConsole/TestRunConsole.csproj
       
       - name: Build the project
-        run: dotnet build ../ ../TestRunConsole/TestRunConsole/TestRunConsole.csproj --no-restore
+        run: dotnet build ../../TestRunConsole/TestRunConsole/TestRunConsole.csproj --no-restore
         
       - name: Run AI Review Console App
-        run: dotnet run --project ../ ../TestRunConsole/TestRunConsole/TestRunConsole.csproj
+        run: dotnet run --project ../../TestRunConsole/TestRunConsole/TestRunConsole.csproj
