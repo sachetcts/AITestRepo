@@ -40,4 +40,4 @@ jobs:
         run: dotnet build TestRunConsole/TestRunConsole/TestRunConsole.csproj --no-restore
         
       - name: Run AI Review Console App
-        run: dotnet run --project TestRunConsole/TestRunConsole/TestRunConsole.csproj -- input "Sachet"
+        run: dotnet run --project TestRunConsole/TestRunConsole/TestRunConsole.csproj -- Sachet
