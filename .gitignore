@@ -4,3 +4,5 @@
 
 /.vs
 /TestRunConsole/.vs/TestRunConsole
+/TestRunConsole/TestRunConsole/obj/Release/net8.0
+/TestRunConsole/TestRunConsole/obj/Debug/net8.0
